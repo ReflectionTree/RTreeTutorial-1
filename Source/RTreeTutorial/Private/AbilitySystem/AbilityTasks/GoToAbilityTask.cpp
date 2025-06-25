@@ -1,4 +1,4 @@
-// Copyright Reflection Tree 2025, Inc. All Rights Reserved.
+// Copyright 2025 Reflection Tree. All Rights Reserved.
 
 #include "AbilitySystem/AbilityTasks/GoToAbilityTask.h"
 #include "RTreeCharacter.h"
